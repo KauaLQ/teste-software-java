@@ -1,4 +1,6 @@
-# JUnit
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=26a162&height=120&section=header"/>
+
+# JUnit <img width='40' heigth='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" />
 
 JUnit é uma das bibliotecas mais populares para realizar testes unitários em Java. Ele ajuda a automatizar a verificação de métodos, garantindo que cada componente de um código funcione como esperado de forma independente. Vou passar pelos conceitos principais que você mencionou.
 
@@ -58,5 +60,3 @@ JUnit é uma das bibliotecas mais populares para realizar testes unitários em J
   void fastTest() { ... }
   ```
 - Isso é útil para rodar testes específicos, como aqueles marcados com "fast" ou "integration".
-
-Esses conceitos de JUnit te darão uma base sólida para realizar testes automatizados de forma prática e organizada.
