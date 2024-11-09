@@ -1,3 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7ba23e&height=120&section=header"/>
+
+# <img width='250' heigth='250' src="https://blog.elo7.dev/images/cover/testes-de-codigo-com-mockito-parte-2.png" />
 Mockito é uma popular biblioteca de testes unitários para Java, usada para criar objetos simulados (mocks) e verificar interações entre eles. Com o Mockito, é possível testar o comportamento de componentes isoladamente, o que ajuda a identificar bugs e garantir que o código funcione corretamente ao interagir com dependências externas. Vamos explorar os aspectos mais importantes:
 
 ### 1. Mockando Objetos
